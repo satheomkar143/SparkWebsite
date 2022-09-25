@@ -46,14 +46,14 @@
 }
 
 .footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #442d4d;
-   color: #ddd4e0;
-   text-align: center;
-   z-index:0;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #442d4d;
+	color: #ddd4e0;
+	text-align: center;
+	z-index:0;
 }
 
 .mt-0 {
